@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[349],{349:function(n,t,e){e.r(t),e.d(t,{default:function(){return p}});var r,o=e(168),a=e(706).Z.h2(r||(r=(0,o.Z)(['\n  text-align: center;\n  padding-top: 20px;\n  padding-bottom: 20px;\n  font-size: 30px;\n  font-family: "Montserrat";\n  font-style: normal;\n  color: #4fa94d;\n']))),i=e(184),p=function(){return(0,i.jsx)(i.Fragment,{children:(0,i.jsx)("div",{children:(0,i.jsx)(a,{children:"Welcome to tweets"})})})}}}]);
+//# sourceMappingURL=349.38f66c17.chunk.js.map
